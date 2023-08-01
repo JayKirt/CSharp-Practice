@@ -25,6 +25,24 @@ if (!int.TryParse(choiceString, out choice) || choice <1 || choice > 4 )
     Console.WriteLine ("Invalid choice, Please select a valid option.")
     return;
 }
+    Console.Write("Enter the first number: ");
+    string num1String = Console.ReadLine();
+        if (!double.TryParse(num1String, out double num1))
+{   
+    Console.WriteLine("Invalid input. Please enter a valid number.");
+    return;
+}
+
+    Console.Write("Enter the second number: ");
+    string num2String = Console.ReadLine();
+        if (!double.TryParse(num2String, out double num2))
+{
+    Console.WriteLine("Invalid input. Please enter a valid number.");
+    return;
+}
+
+
+
         }
     }
     

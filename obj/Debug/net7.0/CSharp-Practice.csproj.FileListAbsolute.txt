@@ -3,3 +3,13 @@
 /Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.AssemblyInfoInputs.cache
 /Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.AssemblyInfo.cs
 /Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.csproj.CoreCompileInputs.cache
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/bin/Debug/net7.0/CSharp-Practice
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/bin/Debug/net7.0/CSharp-Practice.deps.json
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/bin/Debug/net7.0/CSharp-Practice.runtimeconfig.json
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/bin/Debug/net7.0/CSharp-Practice.dll
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/bin/Debug/net7.0/CSharp-Practice.pdb
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.dll
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/refint/CSharp-Practice.dll
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.pdb
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.genruntimeconfig.cache
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/ref/CSharp-Practice.dll

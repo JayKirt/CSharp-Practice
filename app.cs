@@ -11,6 +11,20 @@ namespace SimpleCalculator // used to declare a scope that contains related obje
             
             Console.WriteLine ("Simple Calculator"); // write to console
             Console.WriteLine ("---------------"); // write to console
+            Console.WriteLine("Select an operation:");
+Console.    WriteLine("1. Addition");
+Console.    WriteLine("2. Subtraction");
+Console.    WriteLine("3. Multiplication");
+Console.    WriteLine("4. Division");
+Console.    Write("Enter your choice (1/2/3/4): ");
+
+string choiceString = Console.ReadLine();
+int choice;
+if (!int.TryParse(choiceString, out choice) || choice <1 || choice > 4 )
+{
+    Console.WriteLine ("Invalid choice, Please select a valid option.")
+    return;
+}
         }
     }
     

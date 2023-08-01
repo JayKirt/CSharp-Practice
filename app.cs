@@ -22,7 +22,7 @@ string choiceString = Console.ReadLine();
 int choice;
 if (!int.TryParse(choiceString, out choice) || choice <1 || choice > 4 )
 {
-    Console.WriteLine ("Invalid choice, Please select a valid option.")
+    Console.WriteLine ("Invalid choice, Please select a valid option.");
     return;
 }
     Console.Write("Enter the first number: ");

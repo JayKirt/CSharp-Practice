@@ -1,0 +1,5 @@
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.csproj.AssemblyReference.cache
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.AssemblyInfoInputs.cache
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.AssemblyInfo.cs
+/Users/jamesattrill/Documents/CodingFiles/CSharpPractice/CSharp-Practice/obj/Debug/net7.0/CSharp-Practice.csproj.CoreCompileInputs.cache

@@ -40,7 +40,28 @@ if (!int.TryParse(choiceString, out choice) || choice <1 || choice > 4 )
     Console.WriteLine("Invalid input. Please enter a valid number.");
     return;
 }
+double result = 0.0;
 
+switch (choice)
+{
+    case 1:
+        result = num1 + num2;
+        break;
+    case 2:
+        result = num1 - num2;
+        break;
+    case 3:
+        result = num1 * num2;
+        break;
+    case 4:
+        if (num2 == 0)
+        {
+            Console.WriteLine("Cannot divide by zero.");
+            return;
+        }
+        result = num1 / num2;
+        break;
+}
 
 
         }

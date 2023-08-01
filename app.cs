@@ -1,12 +1,18 @@
-using System;
+using System; // allows classes from the system namespace
+// can anything else instead of System be used?
 
-namespace HelloWorld    
+namespace HelloWorld // used to declare a scope that contains related objects - this is a container
+// how / when would we access this namespace later?      
 {
-    class Program 
+    class Program // basically an object?
     {
-        static void Main (string []args)
+        static void Main (string []args) // the Main method
         {
-            console.WriteLine ("Hello World");
+            string name = "James";
+            console.WriteLine(name);
+            int age = 34;
+            console.WriteLine(age);
+            console.WriteLine ("Hello World"); // write to console
         }
     }
     

@@ -62,8 +62,7 @@ switch (choice)
         result = num1 / num2;
         break;
 }
-
-
+        Console.WriteLine($"Result: {result}");
         }
     }
     

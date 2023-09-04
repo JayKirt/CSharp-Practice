@@ -1,5 +1,5 @@
-# CSharp-Practice
-Practicing C#
+<h1> <ins> CSharp-Practice</ins> </h1>
+<h2> <ins> Practicing C# </ins></h2>
 
 # Calculator
 
